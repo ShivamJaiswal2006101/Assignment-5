@@ -1,8 +1,8 @@
-var x="harish";
+var x="Shivam";
 console.log(x);
 var a=function ()
 {
-	var x=2006209;
+	var x=Question-03;
 	console.log(x);
 	b();
 	function b(){
